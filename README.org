@@ -42,7 +42,23 @@
 
   #+BEGIN_SRC sh
 
-
+  .
+  ├── assets
+  ├── html
+  │   ├── header.html
+  │   ├── postamble.html
+  │   ├── preamble.html
+  │   └── static
+  │       ├── cover.jpg
+  │       ├── favicon.ico
+  │       ├── lambda.png
+  │       └── style.css
+  ├── pages
+  │   ├── about.org
+  │   └── projects.org
+  ├── posts
+  │   └── drafts
+  └── site
 
   #+END_SRC
 

@@ -4,8 +4,8 @@
 * Introduction
 
   This repository is just a place to hold the =org= files
-  that compose the content of my personal blog which as
-  the code-name =hidden-ones= for future references.
+  that compose the content of my personal blog which is
+  called =Hidden-ones=.
 
 * Overview
 

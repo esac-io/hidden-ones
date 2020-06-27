@@ -1,0 +1,96 @@
+#+title: About
+#+date: <2020-06-27 18:03>
+#+filetags: About
+
+* The Basics
+
+  - Nick     : esac
+  - Email    : [[esac-io@tutanota.com][esac-io@tutanota.com]]
+  - Github   : [[https://github.com/esac-io][https://github.com/esac-io]]
+  - Blog     : [[https://esac-io.github.io][https://esac-io.github.io]]
+
+* The Individual
+
+  An ordinary human (it's debatable) who loves
+  mathematics and philosophy, a soon of the sun, a pagan,
+  a magician casting lambda spells all day long!
+
+  On the realm of computer science: a data-oriented
+  design advocate, a FreeBSD user, a Emacs student and
+  a open source/hardware enthusiast and a disappointed
+  computer engineer.
+
+  I've being working in the software development industry
+  for the past 12 years, to be more precise, programming
+  server side =backends= and designing low-level technologies,
+  but know all my efforts are shifted on the only thing
+  that matters:
+
+  Absorb everything, like a black hole in the sky,
+  independent of the lame division, wrongly imposed,
+  by 'modern' society who will die soon in the glimpse
+  of a new paradigm.
+
+* The Goal
+
+  Well, everyone knows how hard writing can be (even more challenging
+  using a non-native language), so this blog was created as an attempt
+  to improve this skill, and as a side effect, add a little bit more
+  information on the data sea called =VIRTUALITY=.
+
+  Although my intent it's to write about anything that attracts the
+  attention, it's good to have a north, to follow the right
+  path into the journey.
+
+  So, the posts subjects will be focused on: mathematics, philosophy,
+  algorithms, functional programming, Elisp, data-oriented design,
+  low-level technologies, Emacs, BSD, ...
+
+* The Philosophy
+
+  With the decline and eminent collapse of western civilization,
+  a clear horizon is blossoming, it's almost palpable, alive,
+  breath taking, expanding itself in a overcome overwhelm
+  fast-paced rate, taking form, nothing and everything at the same time,
+  existential detachment, history in the making, an unstoppable
+  force that will obliterate every obsolete obstacle in its path.
+  It will be brutal, merciless!
+
+  Virtual interfaces are already the main bridges
+  used to access the present, understand the past,
+  unveil the future, all beings, all things,
+  interlinked. The 'artificial' world that surrounds
+  our existence.
+
+  Am I a propellant? A new gear in the new machinery
+  order or just a obsolete obstacle to be surpassed?
+
+* The Prayer
+
+  #+BEGIN_SRC
+
+  Litany Against Fear
+
+  I must not fear.
+  Fear is the mind-killer.
+  Fear is the little-death that brings total obliteration.
+  I will face my fear.
+  I will permit it to pass over me and through me.
+  And when it has gone past I will turn the inner eye to see its path.
+  Where the fear has gone there will be nothing.
+  Only I will remain.
+
+  #+END_SRC
+
+* The Question
+
+  The net is vast and infinite!
+  Where the newborn goes from here?
+
+* The Conclusion
+
+  #+BEGIN_SRC
+
+  Just a whisper... I hear it in my ghost.
+
+  #+END_SRC

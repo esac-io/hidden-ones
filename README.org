@@ -43,7 +43,7 @@
   - Org-mode
   - Org-static-blog
 
-* Setup
+* Quick-Setup
 
   The whole setup it's simple as it can be, after the
   installation of =org-static-blog= package was completed,
@@ -61,11 +61,12 @@
   │   └── static
   │       ├── favicon.ico
   │       └── style.css
-  ├── pages
-  │   ├── about.org
-  │   └── projects.org
   ├── posts
   │   └── drafts
+  │   ├── about.org
+  │   ├── 0000-00-00-post-1.org
+  │   ├── 0000-00-00-post-2.org
+  │   └── projects.org
   └── site
 
   #+END_SRC
@@ -107,7 +108,7 @@
 
   #+END_SRC
 
-  For more information see the org-static-blog manual[2].
+  For more information see the org-static-blog [[https://github.com/bastibe/org-static-blog][manual]] [2].
 
 * References
 
@@ -116,7 +117,6 @@
 
 * LICENSE
   MIT
-
 * EOF
   Writing is an exploration. You start from nothing
   and learn as you go.

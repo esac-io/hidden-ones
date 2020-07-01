@@ -1,4 +1,5 @@
 #+title: Hello World
+#+author: esac
 #+date: <2020-06-25 16:26>
 #+filetags: emacs blog org-mode org-static-blog
 

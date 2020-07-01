@@ -9,7 +9,8 @@ build
 *.core
 *.data
 
-# Unix backup files
+# Unix backup directories and files
+.backup
 *.bak
 
 # Precompiled Headers

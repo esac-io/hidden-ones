@@ -1,0 +1,18 @@
+#+title: Projects
+#+author: esac
+#+filetags: Projects
+
+* EOS
+
+  Just another =org-mode= based =Emacs= configuration,
+  =org-mode= is used to write and organize the configuration
+  in a literate programming format.
+
+  This project also can be viewed as an =Elisp= interpreter desktop
+  distribution providing the universal IO bridge between the
+  human mind and the machine resources, managed by the operating
+  system.
+
+  In other words, an Emacs configuration well designed and
+  integrated that provides a generic computer environment
+  for everyday use.

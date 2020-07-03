@@ -2,79 +2,41 @@
 #+author: esac
 #+filetags: About
 
-* The Presence
-
-  1. [[mailto:esac-io@tutanota.com][esac-io@tutanota.com]]
-  2. [[https://github.com/esac-io][https://github.com/esac-io]]
-  3. [[https://esac-io.github.io][https://esac-io.github.io]]
-
-* The Spirit
-
-  An ordinary human (it's debatable) who loves
-  mathematics and philosophy, a son of the Sun, a pagan,
-  a magician casting lambda spells all day long!
-
-  On the realm of computer science: a data-oriented
-  design advocate, a FreeBSD user, a Emacs student and
-  a open source/hardware enthusiast and a disappointed
-  computer engineer.
-
-  I've being working in the software development industry
-  for the past 12 years, to be more precise, programming
-  server side =backends= and designing low-level technologies,
-  but now all my efforts are shifted to the only thing
-  that matters:
-
-  Absorb everything, like a black hole in the sky,
-  independent of the lame division, wrongly imposed
-  by 'modern' society that has no say or understanding
-  about true education and new possibilities that arrive
-  with it.
-
-  Don't worry, they will die in the glimpse of the
-  new dawn and immortalized as a disgraceful disease
-  through history.
-
-  #+BEGIN_SRC
-  Just a whisper... I hear it in my ghost.
-  #+END_SRC
-
-* The Goal
+* About
 
   Well, everyone knows how hard writing can be (even more challenging
   using a non-native language), so this blog was created as an attempt
-  to improve this skill, and as a side effect, add a little bit more
-  information on the data sea called =VIRTUALITY=.
+  to improve this skill, as a side effect, add a little bit more
+  information on the data sea called =VIRTUALITY=. =Virtual=
+  interfaces are already the main bridges used to access the present,
+  understand the past and unveil the future, all beings, all things,
+  interlinked.
 
-  Virtual interfaces are already the main bridges used to access the
-  present, understand the past and unveil the future, all beings,
-  all things, interlinked.
+  Although, the intent is to write about anything that sparkles
+  interest, the main focus will be on the following subjects:
 
-  Although, the intent is to write about anything that comes to light,
-  it's good to have a north, a direction to avoid losing myself to
-  much in this journey.
+  #+BEGIN_EXAMPLE
+  Algorithms, BSD, Computer History, Data-Oriented Design, Functional Programming,
+  Emacs, Elisp, Mathematics and Philosophy.
+  #+END_EXAMPLE
 
-  So, the posts subjects will be focused on: mathematics, philosophy,
-  algorithms, functional programming, Elisp, data-oriented design,
-  low-level technologies, Emacs, BSD, ...
+  =Hidden-ones= is the weblog's name and a homage to all
+  the twisted 1's forgotten inside our memories.
 
-* The Optimism
+* Contact
 
-  With the decline and eminent collapse of western civilization,
-  a clear horizon is blossoming, it's almost palpable, alive,
-  breath taking, expanding itself in a overcome overwhelm
-  fast-paced rate, taking form, nothing and everything at the
-  same time, existential detachment, history in the making,
-  an unstoppable force that will obliterate every obsolete
-  obstacle in its path.
+  - [[mailto:esac-io@tutanota.com][esac-io@tutanota.com]]
 
-  Abruptly dynamic and merciless by nature.
+* Resources
 
-* The Reality
+  - [[https://github.com/esac-io][esac-io.git]]
+  - [[https://github.com/esac-io/hidden-ones][hidden-ones.git]]
 
-  Am I an obsolete obstacle to be surpassed, to be erased?
+* WHOMI
 
-* The Prayer
+  Doesn't matter, let the work do the talking!
+
+* Mantra
 
   #+BEGIN_SRC
 
@@ -91,14 +53,8 @@
 
   #+END_SRC
 
-* The Citation
+* EOF
 
 #+BEGIN_SRC
   The net is vast and infinite!
-#+END_SRC
-
-* The Question
-
-#+BEGIN_SRC
-  Where the newborn goes from here?
 #+END_SRC

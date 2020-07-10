@@ -7,10 +7,11 @@
   Well, everyone knows how hard writing can be (even more challenging
   using a non-native language), so this blog was created as an attempt
   to improve this skill, as a side effect, add a little bit more
-  information on the data sea called =VIRTUALITY=. =Virtual=
-  interfaces are already the main bridges used to access the present,
+  information on the data sea called =VIRTUALITY=.
+
+  =Virtual= interfaces are already the main bridges used to access the present,
   understand the past and unveil the future, all beings, all things,
-  interlinked.
+  interlinked. Oh, sorry, lost my train of thought here...
 
   Although, the intent is to write about anything that sparkles
   interest, the main focus will be on the following subjects:
@@ -20,21 +21,26 @@
   Emacs, Elisp, Mathematics and Philosophy.
   #+END_EXAMPLE
 
-  =Hidden-ones= is the weblog's name and a homage to all
-  the twisted 1's forgotten inside our memories.
+  The name =Hidden-ones= is just a humble homage to all
+  the twisted =1's= forgotten inside our memories.
 
 * Contact
 
   - [[mailto:esac-io@tutanota.com][esac-io@tutanota.com]]
 
-* Resources
+* Links
 
   - [[https://github.com/esac-io][esac-io.git]]
   - [[https://github.com/esac-io/hidden-ones][hidden-ones.git]]
 
 * WHOMI
 
-  Doesn't matter, let the work do the talking!
+  At this point doesn't matter, does it?
+
+  Let's leave the work do the talking, beware though,
+  the posts contents comes from a disturbed/disruptive
+  mind and can be to much for some people, be careful,
+  but be happy :)
 
 * Mantra
 
@@ -55,6 +61,8 @@
 
 * EOF
 
-#+BEGIN_SRC
-  The net is vast and infinite!
-#+END_SRC
+  #+BEGIN_SRC
+  Highly organized research is guaranteed to produce nothing new.
+  #+END_SRC
+
+| Franklin Patrick Herbert Jr. |

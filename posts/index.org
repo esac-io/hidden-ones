@@ -1,0 +1,24 @@
+#+TITLE: Blog
+#+AUTHOR: lambdart
+#+EMAIL: lambdart@protonmail
+#+FILETAGS: blog index
+#+OPTIONS: toc:nil num:nil *:t <:t |:t ::t prop:t
+
+** [[file:virtuality.org][Manifesto]] <2020-12-02 Wed>
+
+   With the decline and eminent collapse of western civilization, a clear
+   horizon is blossoming, it's almost palpable, alive, breath taking,
+   expanding itself in a overwhelming fast pace, taking form, nothing and
+   everything at the same time, existential detachment [[file:virtuality.org][(...)]]
+
+** [[file:hello-world.org][Hello World]] <2020-12-02 Wed>
+
+   A simple *hello-world* post to show off the =org-export=
+   capabilities, helping me on the development of the front-end
+   layout (the static =style.css=) and the back-end export facilitator
+   (to export org files to html pages), the package '*org-weblog* that
+   will be soon available!  [[file:hello-world.org][(...)]]
+
+
+
+

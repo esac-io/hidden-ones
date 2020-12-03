@@ -1,0 +1,101 @@
+#+TITLE: Hello World
+#+AUTHOR: lambdart
+#+EMAIL: lambdart@protonmail.com
+#+DATE: <2020-12-02>
+#+FILETAGS: emacs blog org-mode org-webloag
+#+OPTIONS: toc:t num:nil *:t <:t |:t ::t prop:t timestamp:t
+
+* Hello World
+
+  <2020-12-03 Thu>
+  -----
+
+  From =hello-word= *wikipedia* article:
+
+  A "Hello, World!" program generally is a computer program that outputs
+  or displays the message "Hello, World!". Such a program is very simple
+  in most programming languages, and is often used to illustrate the
+  basic syntax of a programming language. It is often the first program
+  written by people learning to code. It can also be used as a
+  sanity test to make sure that a computer language is correctly
+  installed, and that the operator understands how to use it.
+
+* History
+
+  While small test programs have existed since the development of
+  programmable computers, the tradition of using the phrase "Hello,
+  World!" as a test message was influenced by an example program in the
+  seminal 1978 book The C Programming Language.
+
+  The example program in that book prints "hello, world",
+  and was inherited from a 1974 Bell Laboratories internal
+  memorandum by Brian Kernighan, Programming in C: A Tutorial.
+
+* Examples
+
+  The following is a list of "Hello, world" programs:
+
+  #+BEGIN_SRC C
+  main( ) {
+    printf("hello, world\n");
+  }
+  #+END_SRC
+
+
+  #+BEGIN_SRC common-lisp
+  (defun hello ()
+    (format t "Hello, World!~%"))
+  #+END_SRC
+
+  #+BEGIN_SRC python
+  print "Hello, world!"
+  #+END_SRC
+
+  #+BEGIN_SRC R
+  cat('Hello, world!')
+  #+END_SRC
+
+* Tables
+
+  | Tables        | Are       | Cool  |
+  | row 1         | the first | line  |
+  | col 1         | col 2     | col 3 |
+  | zebra stripes | are so    | neat  |
+
+* Lists
+** Simple
+   * hey
+   * you
+** Numbered
+   1. foo
+   2. bar
+   3. bob
+   4. alice
+** Sublists
+   - foo
+     - hey
+     - you
+       - this
+       - world
+       - is
+       - so
+       - cold
+         * and
+         * the
+         * winter
+         * is
+         * coming
+   - bar
+   - bob
+     1. one
+     2. two
+   - alice
+* EOF
+
+  #+BEGIN_SRC emacs-lisp
+  (message "hello world")
+  #+END_SRC
+
+  #+RESULTS:
+  : hello world
+

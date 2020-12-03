@@ -1,18 +1,42 @@
-#+title: Projects
-#+author: esac
-#+filetags: Projects
+#+TITLE: Projects
+#+AUTHOR: lambdart
+#+EMAIL: lambdart@protonmail.com
+#+FILETAGS: projects
+#+OPTIONS: toc:t |:t *:t
 
-* EOS
+* VLM
 
-  Just another =org-mode= based =Emacs= configuration,
-  =org-mode= is used to write and organize the configuration
-  in a literate programming format.
+  Just another Emacs configuration written in the literate
+  programming format with the help of [[https://orgmode.org][orgmode]], that has a simple
+  goal: be just a configuration file, i.e, set custom values and
+  hooks for the libraries of interest.
 
-  This project also can be viewed as an =Elisp= interpreter desktop
-  distribution providing the universal IO bridge between the
-  human mind and the machine resources, managed by the operating
-  system.
+  Some people (including me) have started to refer to =Emacs= as a
+  =LISP MACHINE=. It is not strictly a lisp machine because, clearly,
+  it is a software program and not a physical computer, but as that line
+  starts to blur it seems like a useful epithet for Emacs, because
+  these days it looks more and more like an *Operating System*.
 
-  In other words, an Emacs configuration well designed and
-  integrated that provides a generic computer environment
-  for everyday use.
+  - https://github.com/lambdart/vlm
+
+* Cannon
+
+  An Elisp library that mimics the beloved [[https://tools.suckless.org/dmenu/][Dmenu]] to launch unix
+  utilities using the command prompt =minibuffer= interface.
+
+  Going into detail, *Cannon* is a simple lightweight package that has
+  no outside dependencies, relying on =completing-read= builtin
+  =C=-function, providing completions collections plus mechanisms to
+  launch applications - the process creation - directly from Emacs.
+
+  The project’s name itself is a little joke about launching =Chrome=
+  web browser: a heavily metal ball that causes nightmares.
+
+  - https://github.com/lambdart/cannon
+
+* EOF
+
+  #+BEGIN_SRC
+  What is a man? A Miserable little pile of secrets!
+  #+END_SRC
+

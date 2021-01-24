@@ -6,33 +6,42 @@
 
 * VLM
 
-  Just another Emacs configuration written in the literate
-  programming format with the help of [[https://orgmode.org][orgmode]], that has a simple
-  goal: be just a configuration file, i.e, set custom values and
+  Just another *Emacs* configuration written in the literate
+  programming format with the help of [[https://orgmode.org][org-mode]], that has a simple
+  goal - be just a configuration file, i.e, set custom values and
   hooks for the libraries of interest.
 
-  Some people (including me) have started to refer to =Emacs= as a
-  =LISP MACHINE=. It is not strictly a lisp machine because, clearly,
-  it is a software program and not a physical computer, but as that line
-  starts to blur it seems like a useful epithet for Emacs, because
-  these days it looks more and more like an *Operating System*.
+  Some people (including me) have started to refer to Emacs as a LISP MACHINE.
+  It is not strictly a lisp machine because, clearly, it is a software
+  program and not a physical computer, but as that line starts to blur
+  it seems like a useful epithet for *Emacs*, because these days it
+  looks more and more like an =OS=.
 
-  - https://github.com/lambdart/vlm
+  https://github.com/lambdart/vlm
 
 * Cannon
 
-  An Elisp library that mimics the beloved [[https://tools.suckless.org/dmenu/][Dmenu]] to launch unix
-  utilities using the command prompt =minibuffer= interface.
+  An *Elisp* library that mimics the beloved [[https://tools.suckless.org/dmenu/][Dmenu]] to launch =Unix=
+  utilities using the *Emacs* command prompt interface, a.k.a, the
+  =minibuffer=.
 
-  Going into detail, *Cannon* is a simple lightweight package that has
-  no outside dependencies, relying on =completing-read= builtin
-  =C=-function, providing completions collections plus mechanisms to
-  launch applications - the process creation - directly from Emacs.
+  The project’s name itself is a joke about launching
+  =Chrome= web browser inside *Emacs/Exwm* - a heavy metal ball that
+  causes nightmares.
 
-  The project’s name itself is a little joke about launching =Chrome=
-  web browser: a heavily metal ball that causes nightmares.
+  https://github.com/lambdart/cannon
 
-  - https://github.com/lambdart/cannon
+* Lazy-Load
+
+  An *Elisp* library that provides and easy automatic way to generate
+  load definitions =autoloads= from pre-configured directories, i.e,
+  other libraries, accelerating *Emacs* initialization process.
+
+  | Lazy-Load | (emacs-init-time)   |
+  | No        | 4.871672671 seconds |
+  | Yes       | 0.489159734 seconds |
+
+  https://github.com/lambdart/lazy-load
 
 * EOF
 

@@ -1,32 +1,32 @@
 #+TITLE: About
 #+AUTHOR: lambdart
 #+EMAIL: lambdart@protonmail.com
-#+FILETAGS: about
-#+OPTIONS: toc:t num:nil *:t <:t |:t ::nil prop:t -:nil d:t
+#+FILETAGS: About
+#+OPTIONS: toc:nil num:nil *:t <:t |:t ::nil prop:t -:nil d:t title:t
 
-* About
+  -----
 
   Well, everyone knows how hard writing can be (even more challenging
   using a non-native language), so this blog was created as an attempt
   to improve this particular skill, and as a positive side effect,
-  add a little bit more information on the data sea called =VIRTUALITY=.
+  add a little bit more information on the =internet=, the data sea
+  that we all love and/or hate.
 
   Although, the intent is to write about anything that sparkles
   interest, the main focus will be on the following subjects:
 
   - Philosophy
   - Mathematics
-  - Algorithms
-  - Computer History
-  - Data-Oriented Design
   - Functional Programming
-  - Game Development
-  - Lisp Machines
+  - Emacs
   - Lisp Dialects
-  - Emacs/Elisp
+    - Elisp
+    - Clojure
+    - Common Lisp
+    - Scheme
   - FreeBSD
 
-  So, grab a cup of boiling hot coffee *(without sugar, please!)*, map
+  So, grab me cup of boiling hot coffee *(without sugar, thanks)*, map
   out your life, and lets rock it!
 
 * Whoami

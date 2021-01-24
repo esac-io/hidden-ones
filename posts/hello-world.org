@@ -1,13 +1,13 @@
 #+TITLE: Hello World
 #+AUTHOR: lambdart
 #+EMAIL: lambdart@protonmail.com
-#+DATE: <2020-12-02>
-#+FILETAGS: emacs blog org-mode org-webloag
-#+OPTIONS: toc:t num:nil *:t <:t |:t ::t prop:t timestamp:t
+#+DATE: <2020-12-02 Wed>
+#+FILETAGS: Org-mode Blog Example
+#+OPTIONS: toc:t num:nil *:t <:t |:t ::t prop:t timestamp:t title:nil
 
 * Hello World
 
-  <2020-12-03 Thu>
+  <2020-12-02 Wed>
   -----
 
   From =hello-word= *wikipedia* article:
@@ -56,11 +56,21 @@
   #+END_SRC
 
 * Tables
+** Filled
 
-  | Tables        | Are       | Cool  |
-  | row 1         | the first | line  |
-  | col 1         | col 2     | col 3 |
-  | zebra stripes | are so    | neat  |
+   | Tables        | Are       | Cool  |
+   | row 1         | the first | line  |
+   | col 1         | col 2     | col 3 |
+   | zebra stripes | are so    | neat  |
+
+** Empty
+
+   |   |   |   |   |   |
+   |---+---+---+---+---|
+   |   |   |   |   |   |
+   |   |   |   |   |   |
+   |   |   |   |   |   |
+   |   |   |   |   |   |
 
 * Lists
 ** Simple

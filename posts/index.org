@@ -1,10 +1,9 @@
 #+TITLE: Blog
 #+AUTHOR: lambdart
 #+EMAIL: lambdart@protonmail
-#+FILETAGS: blog index
 #+OPTIONS: toc:nil num:nil *:t <:t |:t ::t prop:t
 
-** [[file:virtuality.org][Manifesto]] <2020-12-02 Wed>
+** [[file:virtuality.org][Virtuality]] <2020-12-02 Wed>
 
    With the decline and eminent collapse of western civilization, a clear
    horizon is blossoming, it's almost palpable, alive, breath taking,

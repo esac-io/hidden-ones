@@ -1,17 +1,15 @@
 #+TITLE: Virtuality
-#+DATE: <2020-07-02 21:27>
-#+PUBDATE: <2020-07-02 21:27>
+#+DATE: <2020-12-02 Wed>
 #+AUTHOR: lambdart
 #+EMAIL: lambdart@protonmail.com
-#+FILETAGS: virtuality
-#+OPTIONS: toc:t |:t *:t num:nil tags:t prop:t author:t
+#+TAGS: Virtuality Philosophy Manifesto
+#+OPTIONS: toc:nil |:t *:t num:nil tags:t prop:t author:t title:t
 
-* Manifesto
-
+  -----
   <2020-12-02 Wed>
   -----
 
-  Welcome, to the desert of the real!
+  *Life is just a dream you know...*
 
   With the decline and eminent collapse of western civilization,
   a clear horizon is blossoming, it's almost palpable, alive, breath
@@ -26,9 +24,9 @@
   unstoppable force that will obliterate every obsolete obstacle in
   its path. Abruptly dynamic and merciless by nature.
 
-  *You are just an obsolete meet machine...*
+  *You are just an obsolete meat machine...*
 
-  Without bounds, without time, absorbing everything like a black hole
+  Without bounds, without time, absorbing everything, like a black hole
   open in the beautiful blue sky. An singularity that sees
   divisions of knowledge imposed by 'modern' society as fundamental
   mistakes for the ones that has no say or the minimal understanding
@@ -39,8 +37,8 @@
 
   The more old we get, the world narrows down the paths
   that can be taken, it's simple - we will not break free - we'll all
-  die in the glimpse of a the *NEW BORN ERA* and immortalized as a
-  disgraceful disease through history.
+  die in the glimpse of the *new born era* and immortalized as the
+  most fraudulent generation in bits of history...
 
 * EOF
 

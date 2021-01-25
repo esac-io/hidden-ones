@@ -1,6 +1,6 @@
-#+TITLE: Blog's Archive
+#+TITLE: Archive
 
-* Blog's Archive
+* Archive
 
-- <2021-12-02 Thu> [[file:hello-world.org][Hello World]]
+- <2020-12-02 Wed> [[file:hello-world.org][Hello World]]
 - <2020-12-02 Wed> [[file:virtuality.org][Virtuality]]

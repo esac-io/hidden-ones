@@ -31,10 +31,19 @@
 
   https://github.com/lambdart/cannon
 
+* Ddoc
+
+  An Elisp library that provides instant offline access/management of
+  more then 200 *Dash* documentation sets. It doesn't require *Dash*
+  application, we rely on any *html* file browser, however *Eww* text
+  based browser is highly recommended!
+
+  https://github.com/lambdart/ddoc
+
 * Lazy-Load
 
-  An *Elisp* library that provides and easy automatic way to generate
-  load definitions =autoloads= from pre-configured directories, i.e,
+  An Elisp library that provides automatic generation of load
+  definitions (autoloads) from pre-configured directories, i.e,
   other libraries, accelerating *Emacs* initialization process.
 
   | Lazy-Load | (emacs-init-time)   |
@@ -42,6 +51,40 @@
   | Yes       | 0.489159734 seconds |
 
   https://github.com/lambdart/lazy-load
+
+* Ob-elixir
+
+  An Elisp library that adds Elixir language support, i.e,
+  code evaluation to Org-babel. Babel provides what is known as
+  literate programming to org-mode.
+
+  https://github.com/lambdart/ob-elixir
+
+* Rfc-docs
+
+  An Elisp library that provides facilities to search, fetch and read
+  RFC text documents.
+
+  https://github.com/lambdart/rfc-docs
+
+* Lex
+
+  Libraries Extensions - little hacks for vanilla Emacs.
+
+  An simple library that extends other libraries (mainly builtin ones) -
+  a place to put new functions to be evaluated - little hacks to improve
+  *Emacs* overall usability keeping everything more organized,
+  providing a safe place to add new hacks.
+
+  https://github.com/lambdart/lex
+
+* Wall
+
+  An Elisp library that provides management of wallpapers using
+  feh(1) - or any other unix related utility - to draw the chosen
+  image.
+
+  https://github.com/lambdart/wall
 
 * EOF
 
